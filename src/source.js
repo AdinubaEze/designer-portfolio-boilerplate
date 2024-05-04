@@ -11,10 +11,12 @@ import { IoAnalyticsSharp } from "react-icons/io5";
 import { FaSketch,FaFigma } from "react-icons/fa";
 
 export const navigation = [
-    {name:"Home",id:''},
+    {name:"Home",id:'header'},
     {name:"Services",id:'services'},
     {name:"About",id:'about'},
+    {name:"Skills",id:'skills'},
     {name:"Projects",id:'projects'},
+    {name:"Teams",id:'teams'},
     {name:"Testimonials",id:'testimonials'},
     {name:"Contact",id:'contact'},
 ];
